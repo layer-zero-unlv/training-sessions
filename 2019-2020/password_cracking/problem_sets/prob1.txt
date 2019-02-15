@@ -1,0 +1,6 @@
+We found these hashes from a password dump. Can you break them?
+
+$1$fkIMLZAT$Zo2XKU6v5AcCoYNPAlnGz0
+$1$V0adKhat$mCxbqrqEBlVKP/wZUoCBH1
+$1$9/Acm2VA$ZwVR0FuI/xaC1JR/xywdN.
+$1$IOrOysec$IogK0gII3Nj/975g1pNqu/

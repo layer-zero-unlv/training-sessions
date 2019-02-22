@@ -1,6 +1,0 @@
-We found these MD5 hashes from a data breach. Can you figure out the passwords?
-1. b9e13042a69396c528460ecaac65c3ad
-2. 559959bef463c2b8e4167ba5c6dd5f78
-3. f2f9dbb37aa4b4fb1e979c44c99f6981
-4. bfcdc0b186d568fbd9c752ddc3f536fd
-

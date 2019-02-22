@@ -1,7 +1,0 @@
-We have these MD5 password hashes from a machine. We know that the machine only takes 8 character passwords consisting of upper/lower case letters, numbers and the symbol #. Can you crack the hashes?
-
-1. 2b39edc733b54bebcc421beca23b55b7
-2. ab7502e8bd62e171fe8e5724f0b2a3e8
-3. 07e9d96badb8d3683fef2db3c62895f4
-4. 3a6548239599acbc916cc9da528bc219
-

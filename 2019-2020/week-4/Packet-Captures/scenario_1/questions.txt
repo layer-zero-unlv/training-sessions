@@ -1,0 +1,9 @@
+1. What is the IP address of the compromised computer?
+2. What is the IP address of the attacking computer?
+3. What program is the attacker using to obtain a shell on the compromised machine?
+4. What username does the attacker use to log in to the machine?
+5. What password does the attacker use to log in to the machine?
+6. What program did the attacker check to see was running on the compromised machine?
+7. What is the web-based shell the attacker set up on the compromised machine?
+8. What is the username of the web-based shell?
+9. What is the password to the web-based shell?

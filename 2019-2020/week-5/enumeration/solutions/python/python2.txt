@@ -1,0 +1,8 @@
+This exercise requires decompiling the .pyc file to a normal python file.
+
+To perform this, a decompiler is necessary. Use the Python Package Manager to
+install uncompyle using the command, "pip3 install uncompyle".
+
+Now simply run "uncompyle6 <.pyc file>" and it will output the source code.
+Use this to understand the program. You can then run the the .pyc file normally
+using "python3 <.pyc file>"

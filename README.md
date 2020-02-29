@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/layer-zero-unlv/training-sessions/master/images/layer-zero-logo.png" width="600" height="400" />
 </p>
 
-# Workshop and Capture the Flag Presentions
+# Workshop and Capture the Flag Presentations
 This reposititory contains all of Layer Zero's workshop and training material.
 
 

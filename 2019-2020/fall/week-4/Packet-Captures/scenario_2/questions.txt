@@ -1,5 +1,0 @@
-1. What version of vsFTPd is being used?
-2. What is the IP address of the vsFTP server?
-3. What is the IP address of the client?
-4. What file did they attempt to download?
-5. How large was the file (in bytes)?

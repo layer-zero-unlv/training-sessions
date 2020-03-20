@@ -1,0 +1,24 @@
+Twitter Credentials Exercise
+--------------------------------
+- Find the username and password of the user attempting to authenticate
+
+
+
+
+FTP Exercise
+--------------------------------
+- Find the username and password of the user attempting to authenticate their file exchange
+
+
+
+
+TELNET Exercise
+--------------------------------
+- Find the username and password of the user attempting to authenticate to a telnet session
+
+
+
+
+Ethernet Frame Fragment Exercise
+--------------------------------
+- Given an excerpt of an ethernet frame, find the user's confidential information

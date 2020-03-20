@@ -1,0 +1,11 @@
+This example requires simply looking at the source code and figuring out
+the correct password.
+
+All the password checking code resides in "checkPassword".
+Line 7 checks for a password that is less than 8 characters long.
+Line 10 checks that the ascii sum of all characters is equal to 960.
+Line 13 checks for two things:
+	* That the sixth character in the password has the ascii value 91
+	* The ascii sum of the first three characters is 260
+
+Any string that satisfies these criteria will be accepted by the program

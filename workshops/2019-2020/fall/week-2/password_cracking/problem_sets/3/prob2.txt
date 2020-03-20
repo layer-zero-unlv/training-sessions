@@ -1,0 +1,7 @@
+We have MD5 password hashes from the computer of fan of the Vegas Golden Knights 2017 season team. We suspect the passwords are lower case. We also think that the passwords are in the following format "<@/#/%><num><num><player_last_name>". Can you crack them?
+
+1. 8f5388e079bcdb5b94817193d0201191
+2. 040973669ede801d9ddb70421433a31e
+3. 6502975c9712f66dbb023a88d7760052
+4. feb0157ebc59e83e4481357234312103
+

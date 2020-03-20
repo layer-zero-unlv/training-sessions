@@ -1,0 +1,4 @@
+Wireless Resources:
+- Wireshark files
+- Shortened version of rockyou to allow people to follow along
+- Screenshots
